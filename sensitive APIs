@@ -1,0 +1,151 @@
+
+Screen Title 5
+<android.app.Activity: java.lang.CharSequence getTitle()>
+<java.lang.Class: java.lang.String getCanonicalName()>
+<java.lang.Class: java.lang.String getSimpleName()>
+<java.lang.Class: java.lang.String getName()>
+<android.app.Activity: java.lang.String getLocalClassName()>
+
+Screen Stay Time 9
+<java.lang.System: long currentTimeMillis()>
+<java.util.Calendar: java.util.Date getTime()>
+<java.util.Date: long getTime()>
+<java.util.Calendar: long getTimeInMillis()>
+<com.google.android.material.datepicker.UtcDates: java.util.TimeZone getTimeZone()>
+<java.util.TimeZone: java.util.TimeZone getTimeZone(java.lang.String)>
+<android.icu.util.TimeZone: android.icu.util.TimeZone getTimeZone()>
+<android.location.Location: long getTime()>
+<android.os.SystemClock: long elapsedRealtime()>
+
+
+
+Touch Coord 4
+<android.view.MotionEvent: float getX()>
+<android.view.MotionEvent: float getY()>
+<android.view.MotionEvent: float getRawX()>
+<android.view.MotionEvent: float getRawY()>
+
+
+
+Widget ID 2
+<android.content.res.Resources: java.lang.String getResourceEntryName(int)>
+<androidx.appcompat.widget.ResourcesWrapper: java.lang.String getResourceEntryName(int)>
+
+
+
+Widget Type 18
+<java.lang.Class: java.lang.String getCanonicalName()>
+<java.lang.Class: java.lang.String getSimpleName()>
+<java.lang.Class: java.lang.String getName()>
+<android.app.Activity: java.lang.String getLocalClassName()>
+
+<androidx.appcompat.view.menu.MenuItemImpl: java.lang.CharSequence getTitle()>
+<android.view.MenuItem: java.lang.CharSequence getTitle()>
+<androidx.appcompat.widget.Toolbar: java.lang.CharSequence getTitle()>
+<androidx.appcompat.widget.DecorToolbar: java.lang.CharSequence getTitle()>
+<androidx.appcompat.app.WindowDecorActionBar: java.lang.CharSequence getTitle()>
+<androidx.appcompat.view.menu.ActionMenuItem: java.lang.CharSequence getTitle()>
+<androidx.appcompat.app.ToolbarActionBar: java.lang.CharSequence getTitle()>
+<android.app.ActionBar: java.lang.CharSequence getTitle()>
+<android.support.v7.widget.DecorToolbar: java.lang.CharSequence getTitle()>
+<android.support.v7.view.menu.MenuItemImpl: java.lang.CharSequence getTitle()>
+<android.support.v7.widget.Toolbar: java.lang.CharSequence getTitle()>
+<android.support.v7.view.menu.ActionMenuItem: java.lang.CharSequence getTitle()>
+<android.support.v7.app.WindowDecorActionBar: java.lang.CharSequence getTitle()>
+<androidx.appcompat.view.ActionMode: java.lang.CharSequence getTitle()>
+<android.support.v7.view.ActionMode: java.lang.CharSequence getTitle()>
+<android.webkit.WebView: java.lang.String getTitle()>
+<android.support.v7.preference.Preference: java.lang.CharSequence getTitle()>
+<androidx.preference.Preference: java.lang.CharSequence getTitle()>
+
+
+
+Widget Text 28
+<android.widget.CheckedTextView: java.lang.CharSequence getText()>
+<android.widget.CheckBox: java.lang.CharSequence getText()>
+<android.widget.RadioButton: java.lang.CharSequence getText()>
+<android.widget.Button: java.lang.CharSequence getText()>
+<android.widget.TextView: java.lang.CharSequence getText()>
+<android.view.View: java.lang.CharSequence getContentDescription()>
+<android.widget.ImageButton: java.lang.CharSequence getContentDescription()>
+<android.widget.ImageView: java.lang.CharSequence getContentDescription()>
+<android.widget.TextView: java.lang.CharSequence getContentDescription()>
+<android.view.MenuItem: java.lang.CharSequence getContentDescription()>
+<android.webkit.WebView: java.lang.CharSequence getContentDescription()>
+<com.google.android.material.tabs.TabLayout$Tab: java.lang.CharSequence getContentDescription()>
+<android.support.design.widget.TabLayout$Tab: java.lang.CharSequence getContentDescription()>
+<android.support.v7.view.menu.ActionMenuItem: java.lang.CharSequence getContentDescription()>
+<androidx.appcompat.view.menu.ActionMenuItem: java.lang.CharSequence getContentDescription()>
+<android.support.v7.app.ActionBar$Tab: java.lang.CharSequence getContentDescription()>
+<androidx.appcompat.app.ActionBar$Tab: java.lang.CharSequence getContentDescription()>
+<com.google.android.material.tabs.TabItem: java.lang.CharSequence getContentDescription()>
+<com.google.android.material.tabs.TabLayout$TabView: java.lang.CharSequence getContentDescription()>
+<android.support.design.widget.TabItem: java.lang.CharSequence getContentDescription()>
+<androidx.appcompat.widget.AppCompatTextView: java.lang.CharSequence getText()>
+<com.google.android.material.tabs.TabLayout$Tab: java.lang.CharSequence getText()>
+<android.support.design.widget.TabLayout$Tab: java.lang.CharSequence getText()>
+<com.google.android.material.chip.ChipDrawable: java.lang.CharSequence getText()>
+<androidx.appcompat.app.ActionBar$Tab: java.lang.CharSequence getText()>
+<android.support.v7.app.ActionBar$Tab: java.lang.CharSequence getText()>
+<androidx.appcompat.app.WindowDecorActionBar$TabImpl: java.lang.CharSequence getText()>
+<android.support.v7.app.WindowDecorActionBar$TabImpl: java.lang.CharSequence getText()>
+
+
+
+
+Widget Picture 2
+<android.view.View: void draw(android.graphics.Canvas)>
+<android.view.View: android.graphics.Bitmap getDrawingCache()>
+
+
+
+
+Widget Properties: 16
+<android.widget.RatingBar: float getRating()>
+<android.widget.SeekBar: int getProgress()>
+<android.support.v7.widget.SwitchCompat: java.lang.CharSequence getTextOn()>
+<androidx.appcompat.widget.SwitchCompat: java.lang.CharSequence getTextOn()>
+<android.support.v7.widget.SwitchCompat: java.lang.CharSequence getTextOff()>
+<androidx.appcompat.widget.SwitchCompat: java.lang.CharSequence getTextOff()>
+<android.widget.ToggleButton: java.lang.CharSequence getTextOn()>
+<android.widget.ToggleButton: java.lang.CharSequence getTextOff()>
+<android.widget.TextView: int getCurrentTextColor()>
+<android.widget.Button: int getCurrentTextColor()>
+<android.view.View: boolean isClickable()>
+<android.view.View: boolean isLongClickable()>
+<android.support.v7.widget.AppCompatRatingBar: int getNumStars()>
+<androidx.appcompat.widget.AppCompatRatingBar: int getNumStars()>
+<android.support.v7.widget.SwitchCompat: boolean getShowText()>
+<androidx.appcompat.widget.SwitchCompat: boolean getShowText()>
+
+
+onPreferenceChange: @parameter1
+onCheckedChanged: @parameter1
+onRatingChanged: @parameter1, @parameter2
+onListItemClick: @parameter2, @parameter3
+onItemClick: @parameter2, @parameter3
+onItemSelected: @parameter2, @parameter3
+onChildClick: @parameter2, @parameter3
+onTabChanged: @parameter0
+onMenuItemSelected: @parameter0
+onItemLongClick: @parameter2, @parameter3
+onItemCheckedStateChanged: @parameter1, @parameter2, @parameter3
+
+
+
+
+Widget Location 6
+<android.view.View: float getTranslationX()>
+<android.view.View: float getTranslationY()>
+<android.view.View: int getTop()>
+<android.view.View: int getLeft()>
+<android.view.View: int getRight()>
+<android.view.View: int getBottom()>
+
+
+// Screen Size
+<android.content.res.Resources: android.util.DisplayMetrics getDisplayMetrics()>
+<android.view.Display: int getWidth()>
+<android.view.Display: int getHeight()>
+<android.view.Display: void getRealSize(android.graphics.Point)>
+<android.view.Display: void getSize()>
